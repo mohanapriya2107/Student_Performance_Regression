@@ -450,7 +450,7 @@ Prediction appears on webpage dynamically.
 # Step 1️⃣ Clone Repository
 
 ```bash id="a6v6ec"
-git clone <repository-url>
+git clone https://github.com/mohanapriya2107
 cd Student-Performance-Prediction
 ```
 
